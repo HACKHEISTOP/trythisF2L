@@ -31,7 +31,7 @@ async def root_route_handler(_):
         }
     )
 
-@routes.get("/watch/{path}", allow_head=True)
+@routes.get("/watch/HACKHEIST_{path}", allow_head=True)
 async def stream_handler(request: web.Request):
     try:
         path = request.match_info["path"]
@@ -44,7 +44,7 @@ async def stream_handler(request: web.Request):
         pass
 
 
-@routes.get("/dl/{path}", allow_head=True)
+@routes.get("/dl/HACKHEIST_{path}", allow_head=True)
 async def stream_handler(request: web.Request):
     try:
         path = request.match_info["path"]
