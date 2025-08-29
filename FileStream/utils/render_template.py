@@ -8,7 +8,7 @@ db = Database(Telegram.DATABASE_URL, Telegram.SESSION_NAME)
 
 async def render_page(db_id):
     file_data=await db.get_file(db_id)
-    src = urllib.parse.urljoin(Server.URL, f'dl/{file_data["_id"]}')
+    src = urllib.parse.urljoin(Server.URL, f'dl/HACKHEIST_{file_data["_id"]}')
     file_size = humanbytes(file_data['file_size'])
     file_name = file_data['file_name'].replace("_", " ")
 
