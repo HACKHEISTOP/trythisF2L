@@ -87,7 +87,7 @@ async def gen_link(_id):
 
     page_link = f"{Server.URL}watch/HACKHEIST_{_id}"
     stream_link = f"{Server.URL}dl/HACKHEIST_{_id}"
-    file_link = f"https://t.me/{FileStream.username}?start=HACKHEIST{_id}"
+    file_link = f"https://t.me/{FileStream.username}?start=HACKHEIST_{_id}"
 
     if "video" in mime_type:
         stream_text = LANG.STREAM_TEXT.format(file_name, file_size, stream_link, page_link, file_link)
