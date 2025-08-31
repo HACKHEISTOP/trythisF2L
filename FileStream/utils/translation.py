@@ -6,8 +6,8 @@ class LANG(object):
     START_TEXT = """
 <b>👋 Hᴇʏ, </b>{}\n 
 <b>I'ᴍ ғᴀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴄᴏɴᴛᴇɴᴛ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ 😎</b>\n
-<b>🧿 ᴘʟᴇᴀsᴇ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ɪɴ ʟɪᴍɪᴛ 😒</b>\n\n
-<b><a href='https://yashyasag.github.io/hiddens_officials'>🔥𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗠𝘆 𝗙𝗿𝗲𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 🥰</a></b>\n\n
+<b>🧿 ᴘʟᴇᴀsᴇ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ɪɴ ʟɪᴍɪᴛ 😒</b>\n
+<b><a href='https://yashyasag.github.io/hiddens_officials'>🔥𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗠𝘆 𝗙𝗿𝗲𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 🥰</a></b>\n
 <b>💝 @{}</b>\n"""
 
     HELP_TEXT = """
