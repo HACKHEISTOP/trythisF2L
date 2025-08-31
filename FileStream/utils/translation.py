@@ -5,44 +5,43 @@ class LANG(object):
 
     START_TEXT = """
 <b>👋 Hᴇʏ, </b>{}\n 
-<b>I'ᴍ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇs sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴀs ᴡᴇʟʟ ᴅɪʀᴇᴄᴛ ʟɪɴᴋs ɢᴇɴᴇʀᴀᴛᴏʀ</b>\n
-<b>ᴡᴏʀᴋɪɴɢ ᴏɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ</b>\n
-<b>💕 @{}</b>\n"""
+<b>I'ᴍ ғᴀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴄᴏɴᴛᴇɴᴛ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ 😎</b>\n
+<b>🧿 ᴘʟᴇᴀsᴇ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ɪɴ ʟɪᴍɪᴛ 😒</b>\n\n
+<b><a href='https://yashyasag.github.io/hiddens_officials'>🔥𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝗠𝘆 𝗙𝗿𝗲𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 🥰</a></b>\n\n
+<b>💝 @{}</b>\n"""
 
     HELP_TEXT = """
-<b>- ᴀᴅᴅ ᴍᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴏɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ</b>
-<b>- sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅᴏᴄᴜᴍᴇɴᴛ ᴏʀ ᴍᴇᴅɪᴀ</b>
-<b>- ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ sᴛʀᴇᴀᴍᴀʙʟᴇ ʟɪɴᴋ</b>\n
+<b>𝗜 𝗮𝗺 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗯𝗼𝘁 🔥</b>
+<b>🔹 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅᴏᴄᴜᴍᴇɴᴛ ᴏʀ ᴍᴇᴅɪᴀ</b>
+<b>🔹 ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʟɪɴᴋ</b>\n
 <b>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.</b>\n
-<i><b> ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ <a href='https://telegram.me/AvishkarPatil'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b></i>"""
+<i><b>‼️ ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ <a href='https://telegram.me/HACKHEISTBOT'>𝗛𝗔𝗖𝗞𝗛𝗘𝗜𝗦𝗧</a></b></i>"""
 
     ABOUT_TEXT = """
 <b>⚜ ᴍʏ ɴᴀᴍᴇ : {}</b>\n
-<b>✦ ᴠᴇʀsɪᴏɴ : {}</b>
-<b>✦ ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ : 06-January-2024</b>
-<b>✦ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AvishkarPatil'>Avishkar Patil</a></b>\n
+<b>✦ ᴍᴀᴅᴇ ʙʏ  : ℍ𝔸ℂ𝕂ℍ𝔼𝕀𝕊𝕋</b>
+<b>🔹 ᴡᴇʙsɪᴛᴇs ➪ <a href='https://yashyasag.github.io/hiddens_officials'>𝗙𝗥𝗘𝗘 𝗪𝗘𝗕𝗦 🔥</a></b>\n
 """
 
     STREAM_TEXT = """
-<i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b>{}</b>\n
+<i><u>𝗟𝗲 𝗞𝗮𝗿𝗹𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 😒</u></i>\n
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b><a href='https://yashyasag.github.io/hiddens_officials'>{}</a></b>\n
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <code>{}</code>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <code>{}</code>\n
 <b>🖥 Wᴀᴛᴄʜ :</b> <code>{}</code>\n
 <b>🔗 Sʜᴀʀᴇ :</b> <code>{}</code>\n"""
 
     STREAM_TEXT_X = """
-<i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b>{}</b>\n
+<i><u>𝗟𝗲 𝗞𝗮𝗿𝗹𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 😒</u></i>\n
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b><a href='https://yashyasag.github.io/hiddens_officials'>{}</a></b>\n
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <code>{}</code>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <code>{}</code>\n
 <b>🔗 Sʜᴀʀᴇ :</b> <code>{}</code>\n"""
 
 
-    BAN_TEXT = "__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id={}) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
+    BAN_TEXT = "__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗛𝗔𝗖𝗞𝗛𝗘𝗜𝗦𝗧](tg://user?id={}) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
-
-class BUTTON(object):
+class BUTTON(object):    
     START_BUTTONS = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
